@@ -4,6 +4,4 @@ This is a **high-level demo** showcasing the analysis of IB text chat data. Out 
 
 The system also filters out irrelevant or conversational messages, ensuring that only meaningful trading insights are extracted while eliminating noise.
 
-![image](https://github.com/user-attachments/assets/6116443b-37bd-4132-8977-294a7f7e8bed)
-
-![image](https://github.com/user-attachments/assets/f749dfbe-3bc3-4d85-b6c9-6aee05268859)
+![image](https://github.com/user-attachments/assets/a9d12639-b883-4df4-8433-88b293764230)
